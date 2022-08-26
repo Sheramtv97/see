@@ -1,0 +1,527 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .add-lin {
+        left: 72px;
+        top: 781px;
+    }
+    .add-1 img {
+        width: 471px;
+        height: 473px;
+        bottom: 144px;
+        left: 239px;
+    }
+    .add-2 img {
+        bottom: 487px;
+        right: -328px;
+    }
+    .add-3 {
+        right: -376px;
+    }
+    .bolt-2 {
+        margin: 1px -12px -43px 4px;
+    }
+    .about-general {
+        margin-left: 9px;
+    }
+    .line-gen {
+        width: 375px;
+        height: 432px;
+    }
+    #bolt {
+        padding-bottom: 30px;
+    }
+
+}
+@media (max-width: 1024px) {
+    .hero-block {
+        padding-left: 68px;
+    }
+    .hero-2 img {
+        bottom: 100px;
+        left: 387px;
+    }
+    .add-lin {
+        top: 683px;
+        width: 425px;
+        height: 90px;
+    }
+    .hero-tit p {
+        padding-top: 51px;
+    }
+    .add-1 img {
+        width: 458px;
+        height: 417px;
+        bottom: 144px;
+        left: 169px;
+    }
+    .add-2 img {
+        right: -193px;
+        width: 206px;
+        height: 197px;
+    }
+    .add-3 {
+        right: -210px;
+        top: 203px;
+    }
+    .bolt-a {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .about-general {
+        width: 934px;
+        height: 287px;
+        margin-left: -4px;
+    }
+    .line-gen {
+        width: 317px;
+        height: 427px;
+    }
+    .line-1 {
+        width: 177px;
+        height: 271px;
+        padding-left: 32px;
+    }
+    .wrap-general {
+        justify-content: space-evenly;
+    }
+    .wrap-gen img {
+        width: 276px;
+        height: 106px;
+        padding-top: 10px;
+    }
+    .win-block {
+        width: 339px;
+        height: 486px;
+        box-shadow: 0 15px 140px #21157e;
+    }
+    .win-2 h1 {
+        font-size: 19px;
+        padding-bottom: 3px;
+        padding-left: 12px;
+    }
+    .win-2 p {
+        font-size: 14px;
+        padding-left: 14px;
+    }
+    .win-3 button {
+        margin-right: 103px;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+    .hero-tit h1 {
+        font-size: 55px;
+        padding-top: 79px;
+    }
+    .hamburger-menu {
+        display: flex;
+    }
+    .add-1 img {
+        width: 434px;
+        height: 410px;
+        bottom: 172px;
+        left: 165px;
+    }
+    .hero-tit p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .add-lin {
+        top: 668px;
+        width: 425px;
+        height: 90px;
+        left: 60px;
+    }
+    .bolt-title {
+        margin-right: 24px;
+    }
+    .line-li {
+        padding-top: 9px;
+    }
+    .line-1 {
+        width: 175px;
+        height: 257px;
+        padding-left: 26px;
+    }
+    .line-gen {
+        width: 309px;
+        height: 415px;
+    }
+    .line-li div {
+        padding: 16px;
+    }
+    .win-block {
+        width: 316px;
+        height: 460px;
+    }
+
+    .win-img img {
+        width: 279px;
+        height: 255px;
+    }
+    .win-1 h1 {
+        padding-right: 108px;
+    }
+    .win-3 button {
+        margin-right: 65px;
+    }
+    #footer {
+        background: #413655;
+        min-height: 26vh;
+        padding-top: 53px;
+    }
+    .footer-block h1 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .footer-block p {
+        font-size: 13px;
+        padding: 1px;
+    }
+
+}
+
+@media (max-width: 766px) {
+    .navbar {
+        display: none;
+    }
+
+    .hero-tit h1 {
+        font-size: 40px;
+        padding-top: 55px;
+    }
+
+    .hero-tit span {
+        font-size: 41px;
+    }
+
+    .hero-tit p {
+        font-size: 10px;
+        padding-top: 25px;
+    }
+
+    .hero-2 img {
+        bottom: 112px;
+        left: 328px;
+        width: 60px;
+        height: 55px;
+    }
+
+    .add-2 img {
+        right: -177px;
+        width: 183px;
+        height: 159px;
+    }
+
+    .add-1 img {
+        width: 386px;
+        height: 353px;
+        bottom: 197px;
+        left: 85px;
+    }
+
+    .add-3 {
+        right: -177px;
+        top: 83px;
+    }
+
+    .add-tit {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .add-lin {
+        top: 735px;
+        width: 425px;
+        height: 90px;
+        left: 56px;
+    }
+
+    .bolt-img {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 40px 0;
+    }
+
+    .bolt-a {
+        justify-content: center;
+    }
+
+    .about-general {
+        justify-content: center;
+    }
+
+    .about-general {
+        width: 738px;
+        height: 225px;
+        margin-left: -25px;
+    }
+
+    .about-two {
+        width: 306px;
+        height: 246px;
+        margin-bottom: 81px;
+    }
+
+    .about-gen p {
+        font-size: 10px;
+        padding-left: 5px;
+
+    }
+    .about-two p {
+        font-size: 13px;
+    }
+
+    .about-gen h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        color: #FFFFFF;
+        padding: 1px 0;
+    }
+    .about-two h1 {
+        font-size: 22px;
+        padding: 10px 0;
+    }
+    .about-title {
+        font-size: 41px;
+        padding-bottom: 71px;
+    }
+    .line-title {
+        font-size: 44px;
+    }
+
+}
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 451px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
+
+@media (max-width: 375px) {
+    .hero-general {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hero-tit h1 {
+        font-size: 44px;
+        padding-top: 22px;
+    }
+    .hero-2 img {
+        bottom: 128px;
+        left: 173px;
+        width: 52px;
+        height: 46px;
+    }
+    .hero-block {
+        padding-left: 1px;
+        padding-top: 27px;
+    }
+    .add-general {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .add-lin {
+        top: 674px;
+        width: 351px;
+        height: 72px;
+        left: 11px;
+    }
+    .add h1 {
+        font-size: 30px;
+    }
+    .add-1 img {
+        width: 325px;
+        height: 302px;
+        bottom: 168px;
+        left: -1px;
+    }
+    .add-2 img {
+        right: -11px;
+        width: 138px;
+        height: 117px;
+        bottom: 413px;
+    }
+    .add-3 {
+        right: -26px;
+        top: 70px;
+    }
+    .bolt-title button {
+        width: 87px;
+        height: 36px;
+        font-size: 11px;
+    }
+    .bolt-title p {
+        font-size: 10px;
+    }
+    .bolt-title h1 {
+        font-size: 19px;
+    }
+    .bolt-1 img {
+        width: 338px;
+        height: 240px
+    }
+    .bolt-2 {
+        margin: 54px 1px -45px 1px;
+    }
+    .about-title {
+        font-size: 24px;
+        padding-bottom: 114px;
+    }
+    .about-general {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .about-general {
+        width: 311px;
+        height: 656px;
+        margin-left: 10px;
+    }
+    .about-two {
+        width: 298px;
+        height: 246px;
+        margin-bottom: -57px;
+    }
+    .about-two {
+        width: 295px;
+        height: 240px;
+        margin-bottom: 13px;
+    }
+    .about-gen h1 {
+        font-size: 21px;
+        padding: 15px 0;
+    }
+    .about-gen p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    .line-general {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .wrap-general {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .wrap-title {
+        font-size: 44px;
+        padding-bottom: 33px;
+    }
+    .win-title {
+        font-size: 36px;
+        padding-bottom: 30px;
+    }
+    .win-general {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .win-block {
+        padding-top: 40px;
+    }
+    .footer-general {
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .footer-block p {
+        font-size: 13px;
+        padding-top: 7px;
+    }
+    .bolt-title {
+        margin-right: 1px;
+    }
+
+
+
+
+}
+
+@media (max-width: 320px) {
+    .about-general {
+        width: 292px;
+        height: 662px;
+        margin-left: -1px;
+    }
+    .bolt-1 img {
+        width: 296px;
+        height: 260px;
+    }
+    .bolt-2 {
+        margin: 0px 1px -45px 1px;
+    }
+    .bolt-title p {
+        font-size: 0;
+    }
+    .add-1 img {
+        width: 296px;
+        height: 265px;
+        bottom: 206px;
+        left: -1px;
+    }
+    .add-2 img {
+        right: -6px;
+        width: 109px;
+        height: 101px;
+        bottom: 436px;
+    }
+    .add-lin {
+        top: 666px;
+        width: 294px;
+        height: 51px;
+        left: 11px;
+    }
+    .add h1 {
+        font-size: 25px;
+    }
+    .add p {
+        font-size: 12px;
+    }
+    .add-tit button {
+        width: 109px;
+        height: 40px;
+        margin-bottom: 10px;
+    }
+    .hero-1 {
+        padding-right: 84px;
+        padding-top: 10px;
+    }
+    .hero-tit h1 {
+        font-size: 37px;
+        padding-top: 22px;
+    }
+    .win-block {
+        box-shadow: 0 3px 3px #211538;
+    }
+    .add-3 {
+        right: -50px;
+        top: 9px;
+    }
+    .add-3 img {
+        width: 81px;
+        height: 87px;
+    }
+    .win-block {
+        width: 285px;
+        height: 453px;
+    }
+    .line-gen {
+        width: 298px;
+        height: 415px;
+    }
+
+}
